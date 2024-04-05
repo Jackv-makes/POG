@@ -1,0 +1,5 @@
+Designator,Quantity,Value,Package
+"C2, C5",2,100nF,805
+"C1,C3,C4",3,10uF,603
+L1,1,VLS3012HBX-2R2M-N,-
+U1,1,TPS61202DSC,WSON-10
