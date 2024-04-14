@@ -8,6 +8,11 @@ You will need to be proficient at soldering surface mounted components unless yo
 
 <a href="https://www.pcbway.com/project/shareproject/Egg_Power_On_Gameboy_Regulator_90470e30.html">PCBWay</a>
 
+If you've never used PCBWay before, it's a great option for 3D printing services and PCB manufacturing. Signing up using my referral link will give you a free $5 to spend
+
+[Referral link](https://pcbway.com/g/yL2sfr)
+
+
 # Disclaimer
 I will not provide any support on these regulators and take no responsibility for any issues or damages that may occur if you build or use this inappropriately. 
 
